@@ -1,0 +1,76 @@
+/usr/lib/python3/dist-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+[vocab] patched VOCAB=16,384 in 11 modules
+{
+  "backend": "final_field_pcaf_on",
+  "canonical_sha256": "0454647a7f667cdf73f45029eee0f525c58c0788ecd433ec1a4db8c3937ac848",
+  "cuda": "12.8",
+  "gpu": "NVIDIA H100 80GB HBM3",
+  "loss": 10.170866012573242,
+  "pcaf_enabled": true,
+  "status": "PASS",
+  "topology": {
+    "block_count": 24,
+    "classes": [
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FusionRefreshBlockV21",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "Mamba2ResidualBlock",
+      "FusionRefreshBlockV21",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FusionRefreshBlockV21",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "FieldBlock",
+      "Mamba2ResidualBlock",
+      "FusionRefreshBlockV21"
+    ],
+    "mamba_count": 2,
+    "mamba_indices": [
+      10,
+      22
+    ],
+    "native_field_count": 18,
+    "native_field_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20,
+      21
+    ],
+    "refresh_count": 4,
+    "refresh_indices": [
+      5,
+      11,
+      17,
+      23
+    ],
+    "rejected_module_names": []
+  },
+  "torch": "2.7.0"
+}

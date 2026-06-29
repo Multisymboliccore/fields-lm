@@ -1,0 +1,35 @@
+name: Bug report
+description: Report a reproducible problem in Fields LM.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve Fields LM. Please remove private data and credentials from logs.
+  - type: input
+    id: version
+    attributes:
+      label: Fields LM version or commit
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Python, PyTorch, CUDA, GPU, Triton, mamba-ssm, causal-conv1d.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Minimal reproduction
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs or traceback

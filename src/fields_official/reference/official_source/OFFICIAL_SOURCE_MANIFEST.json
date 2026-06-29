@@ -1,0 +1,176 @@
+{
+  "description": "Direct promoted R1 runtime; rejected Macroblock C omitted.",
+  "files": [
+    {
+      "bytes": 34177,
+      "path": "field_delta_span_phase_ablation_v12.py",
+      "sha256": "e4b24d7a35143c6ba89cf542b406fe289adf081373225f8735483883e44618a1"
+    },
+    {
+      "bytes": 52640,
+      "path": "field_fusion_300m_screen_v20.py",
+      "sha256": "c4d964a52b075495761b25357926bb1c6fef7a86c418fb214c68951f2e565757"
+    },
+    {
+      "bytes": 51972,
+      "path": "field_fusion_delta_quality_ablation_v29.py",
+      "sha256": "ff8d867ce3511d5d2337792b716358d1b877d4ccdaf3feca5fafb47ab02c5b1c"
+    },
+    {
+      "bytes": 46340,
+      "path": "field_fusion_final_ablation_v26.py",
+      "sha256": "be71590429f31cfd47bfc6e034ae69a5c725beaf43d16fae481e13c16ed58257"
+    },
+    {
+      "bytes": 21332,
+      "path": "field_fusion_finalists_49m_v30.py",
+      "sha256": "1875509e33823581ce1945ccf72bda929567370bc207a842357fcf3a2a1db0a1"
+    },
+    {
+      "bytes": 17362,
+      "path": "field_fusion_gap_closure_v33.py",
+      "sha256": "8b178b35d833d6359a8025602bb3656d7d9a98bc3ef4fb5d2af006256cc853c4"
+    },
+    {
+      "bytes": 52690,
+      "path": "field_fusion_gap_kernel_v32.py",
+      "sha256": "ef6588b22f67a945e858b6a00323995d70daf0f86d7ac5ca65d245a825d53ac3"
+    },
+    {
+      "bytes": 26878,
+      "path": "field_fusion_lr_calibration_v34.py",
+      "sha256": "0eec71451c8395d0ddf8b185879e83f827306b3955fc36ce49ef18e082959401"
+    },
+    {
+      "bytes": 42418,
+      "path": "field_fusion_pcaf_long_infer_v31.py",
+      "sha256": "20043f718ec9e19e82b2cf758ac9789f79f0b25e91d82e398abd0f7db0a65be6"
+    },
+    {
+      "bytes": 40964,
+      "path": "field_fusion_quality_memory_gate_v22.py",
+      "sha256": "c61113ea0597b776165e34020ebf590592e094150d7177fa3783762296e282cd"
+    },
+    {
+      "bytes": 31410,
+      "path": "field_fusion_recipe_memory_v27.py",
+      "sha256": "6635c57c46191bc808c0fe1fc738e43e6311a7f539eb6bc80bf37741e8be9eff"
+    },
+    {
+      "bytes": 28749,
+      "path": "field_fusion_reengineering_r1_redundancy_map.py",
+      "sha256": "ace23759fc174207b3484511f047e8c9e298f64993479a79fc5fd63b55daefe7"
+    },
+    {
+      "bytes": 39168,
+      "path": "field_fusion_scaling_confirmation_v28.py",
+      "sha256": "e09a30a83eb5f30741599d0875b142f5d7fb6454a3de83309f7251706f20d841"
+    },
+    {
+      "bytes": 39922,
+      "path": "field_fusion_structural_gap_v35r1.py",
+      "sha256": "ac6764596a41d56492e914dee1ee089363c12cf3b4f3391332dafbdbbe575f49"
+    },
+    {
+      "bytes": 58329,
+      "path": "field_fusion_system_smoke_v21.py",
+      "sha256": "dd3308b366d1a0466d5ca53dce6a2ef83f4bac6a70ebda6a3d1c1475b1a58ec3"
+    },
+    {
+      "bytes": 41180,
+      "path": "field_fusion_wiki100_canonical_v23.py",
+      "sha256": "5c5e2af601842f347c0a07d4cbf84ec9e2e12926cf8b30e432fcac0f8c175f1f"
+    },
+    {
+      "bytes": 27821,
+      "path": "field_fusion_wiki100_mamba2_v25.py",
+      "sha256": "dc039781a86fb7861fe86b0c6f7347475c222f2d35d531056873d0d1b4cd1b33"
+    },
+    {
+      "bytes": 60093,
+      "path": "field_hybrid_attentionfree_qualification_v3.py",
+      "sha256": "6c9c61b1f1aa6a8e5bed88486c5e3273630f79cb4654cb85c7a9e1b5d028316f"
+    },
+    {
+      "bytes": 42215,
+      "path": "field_hybrid_canonical_50m_bridge_v4.py",
+      "sha256": "8f407a116889d906a96ef1e9cd11e9763f6cd736540991bd0d811d8e4e6dda4b"
+    },
+    {
+      "bytes": 50520,
+      "path": "field_hybrid_speed_optimization_v6.py",
+      "sha256": "45baa6731b9b5c08bcd5353f488956ee0129a13ce8eacd6f81e899b94d7136c4"
+    },
+    {
+      "bytes": 47688,
+      "path": "field_oracle_gap_ablation_v8.py",
+      "sha256": "b30b2284ec855f28404e668bdfbb36f8d4e35fc957a3209a0dd1d32407aca63d"
+    },
+    {
+      "bytes": 19919,
+      "path": "field_scale_50m_v15.py",
+      "sha256": "7f1b06b0a10f1eb0e1b1b5e6449b1e8613fdc308d732a6f083f3ed6247c06ae5"
+    },
+    {
+      "bytes": 31346,
+      "path": "field_selective_episodic_canonical_50m_bridge_v10.py",
+      "sha256": "e38c0d866df6a26b57577ce0db084f7a14ad699513bb9f091fdb3b2c3362fe32"
+    },
+    {
+      "bytes": 30336,
+      "path": "field_selective_episodic_memory_ablation_v9.py",
+      "sha256": "8967ed8854c7c9decf4f71bd748fcba9cf729bd5417594a620e31943c217532b"
+    },
+    {
+      "bytes": 36788,
+      "path": "field_selective_latent_addressing_ablation_v11.py",
+      "sha256": "00f541c1c9de86ea1c772c75b6099373593d87816c41ee9058865fe57e7cf795"
+    },
+    {
+      "bytes": 49635,
+      "path": "field_token_efficiency_arena_v19.py",
+      "sha256": "f5e0425bc1b27e56caff98b7372a46eff49cb56b2849a9e9c49d998635f50194"
+    },
+    {
+      "bytes": 47121,
+      "path": "field_token_ppl_pilot_v18.py",
+      "sha256": "3eabdc07ed74d24dd34d035431a150c36c3386aff1c2c1bbbe057e1196a79766"
+    },
+    {
+      "bytes": 37195,
+      "path": "field_transformer_judge_repair_50m_8k_v5.py",
+      "sha256": "c102d15bd0fa720932e7a16a86ad319d62e03d8f2eb4fa95c3e54146afa95d9e"
+    }
+  ],
+  "format": 2,
+  "required_modules": [
+    "field_delta_span_phase_ablation_v12.py",
+    "field_fusion_300m_screen_v20.py",
+    "field_fusion_delta_quality_ablation_v29.py",
+    "field_fusion_final_ablation_v26.py",
+    "field_fusion_finalists_49m_v30.py",
+    "field_fusion_gap_closure_v33.py",
+    "field_fusion_gap_kernel_v32.py",
+    "field_fusion_lr_calibration_v34.py",
+    "field_fusion_pcaf_long_infer_v31.py",
+    "field_fusion_quality_memory_gate_v22.py",
+    "field_fusion_recipe_memory_v27.py",
+    "field_fusion_reengineering_r1_redundancy_map.py",
+    "field_fusion_scaling_confirmation_v28.py",
+    "field_fusion_structural_gap_v35r1.py",
+    "field_fusion_system_smoke_v21.py",
+    "field_fusion_wiki100_canonical_v23.py",
+    "field_fusion_wiki100_mamba2_v25.py",
+    "field_hybrid_attentionfree_qualification_v3.py",
+    "field_hybrid_canonical_50m_bridge_v4.py",
+    "field_hybrid_speed_optimization_v6.py",
+    "field_oracle_gap_ablation_v8.py",
+    "field_scale_50m_v15.py",
+    "field_selective_episodic_canonical_50m_bridge_v10.py",
+    "field_selective_episodic_memory_ablation_v9.py",
+    "field_selective_latent_addressing_ablation_v11.py",
+    "field_token_efficiency_arena_v19.py",
+    "field_token_ppl_pilot_v18.py",
+    "field_transformer_judge_repair_50m_8k_v5.py"
+  ]
+}

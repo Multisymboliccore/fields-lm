@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Fields LM, please cite this software release and the paper once its public identifier is added."
+title: "Fields LM"
+type: software
+authors:
+  - family-names: "do Nascimento"
+    given-names: "Artur"
+    orcid: "https://orcid.org/0009-0002-9437-251X"
+version: 0.1.0
+date-released: 2026-06-29
+url: "https://github.com/Multisymboliccore/fields-lm"
+repository-code: "https://github.com/Multisymboliccore/fields-lm"
+license: Apache-2.0
+keywords:
+  - language models
+  - long context
+  - causal memory
+  - state-space models
+  - neural sequence architectures
